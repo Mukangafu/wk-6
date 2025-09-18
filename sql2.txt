@@ -1,4 +1,2 @@
-SELECT p.productName, p.productVendor, pl.productLine
-FROM products p
-LEFT JOIN productlines pl
-ON p.productLine = pl.productLine;
+
+
